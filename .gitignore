@@ -1,0 +1,14 @@
+# Data files (may contain real or sensitive data)
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
